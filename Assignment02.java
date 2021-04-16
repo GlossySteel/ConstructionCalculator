@@ -1,7 +1,7 @@
 /**
 * CSE 110     : Class 77686 / iCourse
 * Assignment  : Assignment 2
-* Author      : Joseph Kharzo & 1218555299
+* Author      : Joseph Kharzo
 * Description : A program that helps a road construction company determine the number
 * of materials they need and the total cost. The program accomplishes this by having
 * the user enter the length of the road, the number of lanes, the depth of the
